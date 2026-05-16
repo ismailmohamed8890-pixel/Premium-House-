@@ -1,0 +1,8 @@
+{
+  "name": "Premium House Real Estate",
+  "description": "Premium real estate solutions in Abu Dhabi, specializing in luxury property management, construction, and brokerage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
